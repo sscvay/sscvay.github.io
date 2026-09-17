@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "49982f3c1a115aa947bfc2de",
+  "owner": "sscvay",
+  "repo": "sscvay.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "14a6f4e933e8caa7afabb36a",
+      "a": "BoomCloud",
+      "b": "网络加速服务",
+      "entity": "BoomCloud",
+      "brand": "BoomCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f22fddbd2b7d9d6c547d511d3fb96b2429b275f1fb27bce01966eb14c9f354ac",
+      "content": {
+        "primary_entity": "BoomCloud",
+        "keyword1": "BoomCloud",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据常用设备选择客户端，再按套餐支持的在线设备数导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "从套餐适配开始",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助用户按流量和终端数量找到适合的加速方案。基础版适合轻度使用，旗舰版侧重多设备与专线体验，团队版面向高带宽与多人共享场景，可按年付方式降低月均支出。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度梳理 BoomCloud 的使用方式。",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURE_TEXT_1": "对照每月流量与同时在线设备数挑选版本，轻度使用选基础版，多终端与专线需求选旗舰版。",
+          "AI_FEATURE_TEXT_2": "按常用手机、电脑或路由器等终端选择对应客户端，再依照文档导入订阅并设置规则。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付适合长期稳定使用，团队版可满足多人共享与定制路由需求。",
+          "AI_FEATURE_TITLE_1": "按需求选套餐",
+          "AI_FEATURE_TITLE_2": "按设备配订阅",
+          "AI_FEATURE_TITLE_3": "按周期定付费",
+          "AI_GUIDE_INTRO": "先确认服务与套餐适配，再依客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "BoomCloud 网络加速服务提供基础版、旗舰版与团队版三档套餐，分别对应不同流量、设备数量与专线加速需求。用户可按日常设备数量和数据用量选择版本，再结合客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐可按流量与设备数选择",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方式可降低月均使用成本",
+          "AI_PLANS_INTRO": "对比各版本设备数量、流量额度与节点权益，再按实际使用规模选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数量，从基础版、旗舰版或团队版中确定合适版本。",
+          "AI_STEP_TEXT_2": "查看所选套餐对客户端类型、系统版本与订阅导入方式的具体适配要求。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，设置分流规则后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BoomCloud 套餐速览",
+          "AI_FAQ_ANSWER_1": "在 BoomCloud 账户后台获取订阅链接，复制到所选客户端的订阅导入位置，保存后更新节点列表即可。不同客户端导入路径略有差异，可参考对应客户端的配置说明。",
+          "AI_FAQ_ANSWER_2": "基础版、旗舰版与团队版支持的同时在线设备数依次增加，覆盖个人、家庭到团队协作场景。手机、平板、电脑较多的用户建议从旗舰版起步，多人共享则适合团队版。",
+          "AI_FAQ_ANSWER_3": "可以。BoomCloud 提供月付与年付两种周期，年付方案在总支出上更划算。流量需求稳定、长期使用的用户适合年付；初次尝试可以先选择月付观察实际用量。",
+          "AI_FAQ_ANSWER_4": "基础版适合日常浏览与轻度影音，旗舰版带有 IPLC 专线并针对游戏加速优化，延迟表现更好。团队版提供 VIP 高带宽节点，适合对稳定性和带宽要求更高的多人场景。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版提供优先工单支持，团队版还配有专属客户经理。遇到订阅导入、节点连接或套餐变更问题，可通过账户内的支持渠道提交工单获得协助。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "BoomCloud 订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "一个账号最多可以几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "月付和年付可以自由选择吗？",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版在游戏体验上有什么区别？",
+          "AI_FAQ_QUESTION_5": "遇到使用问题如何获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f103bd2625e2b1074d06ad96ffd03c914c978f1c91c10a3f5f48be51650e9f94",
+    "sitemap.xml": "3af538ca349d8fcf64e17afa6aeff6bd7054b189459a2fa30ff774d48f3d39ad",
+    "robots.txt": "2bcb85c14e763512dfbd82bcded2afba40833be0f38451de2e42470c5cced9d7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "72986d628765e8b11817a5d4542793ada905b7d015f9e6e88c4e56e31dc1625f"
+}
